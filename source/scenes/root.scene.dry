@@ -579,18 +579,21 @@ Q.stampfer_advisor = 0; // Friedrich Stampfer
 set-bg: img/map_2.jpg
 new-page: true
 
-> *"Such a general development cannot be attributed to the false tactics of any single party or to the mistakes of individual leaders. On the contrary, the conduct of individual leaders is determined largely by the sentiments of the people as a whole. It would be erroneous, however, to regard the sentiments of the moment as reflecting the natural make-up and character of the people. They are merely the consequence of the special circumstances which have brought about this profound degradation of the entire nation."*
+> *Nosotros los perturbadores, los que nos levantamos todos los días a trabajar de buena hora, un día, también de buena hora, en vez de ir a la fábrica, iremos con los que trabajan a coger lo que nos pertenece.*
 
- - Karl Kautsky, *Hitlerism and Social Democracy*, 1934
 
-This is a game of alternate history. While historical accuracy is a major concern, keep in mind that this is a *game*, and that any divergence from actual events will necessarily have to involve some element of make-believe. Nevertheless, please let the author know if there are any glaring mistakes.
+ - Durruti, *carta desde el penal de Puerto Cabras* 1934
 
-For more information on the politics and government of the German Republic, see the "Library" page on the top left. If this is your first time playing the game, it is strongly recommended that you read at least some of this information.
+Cinco años.
+Cinco años fuera del país, de la ciudad de Stachy, del sindicato, de tu hogar. No te puedes creer haber vuelto y sin embargo, aquí estás: frente al local del sindicato.
 
-- @1928_easy: Begin (easy difficulty)
-- @1928_main: Begin (normal difficulty)
-- @1928_hard: Begin (hard difficulty)
-- @1928_historical: Begin (historical mode)
+El local del sindicato es un pequeño bajo situado frente al paseo marítimo de Stachy, el olor a salitre es frecuente cuando, como hoy, la niebla se acumula. 
+
+Una bandera roja y una negra cuelgan tras los escaparates de la entrada, ligeramente sucios. Al levantar la vista ves las palabras "FEDERACIÓN NACIONAL DE TRABAJADORES" inscritas en unagran placa de metal oxidada de color rojo y negro. La humedad y la sal han corroído casi en su totalidad la pintura.
+
+- @1928_easy: Me hacía falta cambiar de aires. (Entrar)
+- @1928_easy: La situación en casa no era la mejor. (Entrar)
+- @1928_easy: Perdí aquel conflicto, la apatía me pudo. (Entrar)
 
 @1928_easy
 on-arrival: difficulty = -1; resources = 4; dues = 3; rb_strength = 2500; kpd_relation = 29; z_relation = 54; dvp_relation = 49; budget = 5;
